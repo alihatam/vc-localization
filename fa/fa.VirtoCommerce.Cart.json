@@ -1,14 +1,14 @@
 ﻿{
   "cart": {
-    "main-menu-title": "Shopping carts",
+    "main-menu-title": "سبدهای خرید",
     "blades": {
       "carts-list": {
-        "title": "Shopping carts",
+        "title": "سبدهای خرید",
         "labels": {
-          "customer": "Customer",
-          "items-count": "Items count",
-          "created": "Created",
-          "modified": "Modified",
+          "customer": "مشتری",
+          "items-count": "تعداد موارد",
+          "created": "ایجاد شده",
+          "modified": "تغییر داده شده",
           "total": "Total"
         }
       },
